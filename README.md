@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Nome do Projeto- House_API
 
 Este projeto é uma API RESTful que gerencia produtos imobiliários. A aplicação utiliza um banco de dados PostgreSQL e foi projetada para execução em containers Docker.
 
