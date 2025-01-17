@@ -74,7 +74,7 @@ Certifique-se de que o Docker está em execução e utilize o comando abaixo par
 docker-compose up
 ```
 
-Isso iniciará a aplicação e ela estará disponível no endereço: http://localhost:5003.
+Isso iniciará a aplicação e ela estará disponível no endereço: http://localhost:5003/swagger/index.html.
 
 ---
 
