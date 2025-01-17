@@ -48,7 +48,7 @@ git clone <https://github.com/GuilhermeFernandes4/TP_Servicos_Distribuidos_V2/br
 Acesse o diretório do projeto:
 
 ```bash
-cd <TP_Servicos_Distribuidos_V2>
+cd TP_Servicos_Distribuidos_V2
 ```
 
 ---
